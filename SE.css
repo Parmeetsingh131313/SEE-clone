@@ -1,0 +1,130 @@
+
+/* for small screens like mobile phones */
+@media only screen and (max-width: 480px) {
+    
+    #logo{
+color: green;
+ }
+ .d-block{
+    width: 100%;
+ }
+ .service{
+    font-size: 25px!important;
+ }
+ .para1{
+    font-size: 18px;
+ }
+  #heading2{
+text-align: center;
+color: black;
+font-weight: bold;
+}
+.col{
+    display: inline-block;
+ }
+#cwbgg{
+    background-color: rgb(57, 109, 57);
+    color: white;
+}
+#col-2{
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    
+}
+#col-2-2{
+    margin: 20px;
+    padding: 20px;
+    
+}
+.col221{
+    width: 244px;
+    height: 244px;
+}
+.rc{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+#bggcw{
+    background-color:rgb(57, 109, 57);
+    color: white;
+}
+#bggcw3{
+    margin: 20px;
+    padding: 20px;
+}
+.bggcw31{
+    font-size: 18px;
+}
+
+}
+
+
+
+
+
+  /* for large screens like laptops and pcs */
+  @media only screen and (max-width: 1800px) and (min-width: 500px)  {
+    
+    #logo{
+color: green;
+ }
+.nav-link{
+    color: black!important;
+ }
+ .service{
+    font-size: 48px!important;
+ }
+ .para1{
+    font-size: 40px;
+ }
+ .d-block{
+    width: 100%;
+ }
+  #heading2{
+text-align: center;
+font-size: 75px;
+color: black;
+font-weight: bold;
+}
+.col{
+    display: inline-block;
+ }
+#cwbgg{
+    background-color: rgb(57, 109, 57);
+    color: white;
+}
+#col-2{
+    margin: 20px;
+    padding: 20px;
+    font-size: 40px;
+    color: white;
+}
+#col-2-2{
+    margin: 20px;
+    padding: 20px;
+}
+.rc{
+    font-size: 75px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+#bggcw{
+    background-color:rgb(57, 109, 57);
+    color: white;
+}
+#bggcw3{
+    margin: 20px;
+    padding: 20px;
+}
+.bggcw31{
+    font-size: 25px;
+}
+#bnav{
+    font-size: 25px;
+}
+}
